@@ -1,6 +1,3 @@
-# Gmail Account Creation Automation Script - Version 1.1.0
-# Original script by Abdelhakim Khaouiti (khaouitiabdelhakim on GitHub)
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select, WebDriverWait
